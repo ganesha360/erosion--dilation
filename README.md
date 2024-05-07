@@ -22,7 +22,10 @@ Dilate the Image
 
  
 ## Program:
-
+```
+DEVELOPED BY : GANESH R
+REGISTER NUMBER : 212222240029
+```
 
 # Import the necessary packages
 ```python
